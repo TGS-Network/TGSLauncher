@@ -1,5 +1,0 @@
-C:\Users\TimmyG\Desktop\Projects\TGSLauncher\app\assets\js\processbuilder.js
-C:\Users\TimmyG\Desktop\Projects\TGSLauncher\app\assets\js\scripts\landing.js
-C:\Users\TimmyG\Desktop\Projects\TGSLauncher\dist\win-unpacked\resources\app.asar
-C:\Users\TimmyG\Desktop\Projects\TGSLauncher\docs\distro.md
-C:\Users\TimmyG\Desktop\Projects\TGSLauncher\docs\sample_distribution.json
