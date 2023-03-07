@@ -1,15 +1,14 @@
 <p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="aventium softworks"></p>
 
-<h1 align="center">Helios Launcher</h1>
+<h1 align="center">TGS Launcher</h1>
 
-<em><h5 align="center">(formerly Electron Launcher)</h5></em>
+<em><h5 align="center">forked from Helios Launcher, Thank you Helios! You made the TGS Network alot easier to customize and build from now :)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/dscalzi/HeliosLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/dscalzi/HeliosLauncher/actions) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/HeliosLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
+[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/TGS-Network/TGSLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/TGS-Network/TGSLauncher/actions) [<img src="https://img.shields.io/github/downloads/TGS-Network/TGSLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/TGS-Network/TGSLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
 
 <p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
 
-![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
-![Screenshot 2](https://i.imgur.com/x3B34n1.png)
+
 
 ## Features
 
@@ -39,25 +38,25 @@ This is not an exhaustive list. Download and install the launcher to gauge all i
 
 ## Downloads
 
-You can download from [GitHub Releases](https://github.com/dscalzi/HeliosLauncher/releases)
+You can download from [GitHub Releases](https://github.com/TGS-Network/TGSLauncher/releases)
 
 #### Latest Release
 
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases/latest)
+[![](https://img.shields.io/github/release/TGS-Network/TGSLauncher.svg?style=flat-square)](https://github.com/TGS-Network/TGSLauncher/releases/latest)
 
 #### Latest Pre-Release
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher/all.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases)
+[![](https://img.shields.io/github/release/TGS-Network/TGSLauncher/all.svg?style=flat-square)](https://github.com/TGS-Network/TGSLauncher/releases)
 
 **Supported Platforms**
 
-If you download from the [Releases](https://github.com/dscalzi/HeliosLauncher/releases) tab, select the installer for your system.
+If you download from the [Releases](https://github.com/TGS-Network/TGSLauncher/releases) tab, select the installer for your system.
 
 | Platform | File |
 | -------- | ---- |
-| Windows x64 | `Helios-Launcher-setup-VERSION.exe` |
-| macOS x64 | `Helios-Launcher-setup-VERSION-x64.dmg` |
-| macOS arm64 | `Helios-Launcher-setup-VERSION-arm64.dmg` |
-| Linux x64 | `Helios-Launcher-setup-VERSION.AppImage` |
+| Windows x64 | `TGS-Launcher-setup-VERSION.exe` |
+| macOS x64 | `TGS-Launcher-setup-VERSION-x64.dmg` |
+| macOS arm64 | `TGS-Launcher-setup-VERSION-arm64.dmg` |
+| Linux x64 | `TGS-Launcher-setup-VERSION.AppImage` |
 
 ## Console
 
@@ -91,8 +90,8 @@ This section details the setup of a basic developmentment environment.
 **Clone and Install Dependencies**
 
 ```console
-> git clone https://github.com/dscalzi/HeliosLauncher.git
-> cd HeliosLauncher
+> git clone https://github.com/TGS-Network/TGSLauncher.git
+> cd TGSLauncher
 > npm install
 ```
 
@@ -193,7 +192,7 @@ For instructions on setting up Microsoft Authentication, see https://github.com/
 
 The best way to contact the developers is on Discord.
 
-[![discord](https://discordapp.com/api/guilds/211524927831015424/embed.png?style=banner3)][discord]
+[![discord](https://discordapp.com/api/guilds/1017779618205409301/embed.png?style=banner3)][discord]
 
 ---
 
@@ -205,7 +204,7 @@ The best way to contact the developers is on Discord.
 [mainprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Main Process'
 [rendererprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Renderer Process'
 [chromedebugger]: https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome 'Debugger for Chrome'
-[discord]: https://discord.gg/zNWUXdt 'Discord'
+[discord]: https://discord.gg/tFPweZatsT 'Discord'
 [wiki]: https://github.com/dscalzi/HeliosLauncher/wiki 'wiki'
-[nebula]: https://github.com/dscalzi/Nebula 'dscalzi/Nebula'
-[v2branch]: https://github.com/dscalzi/HeliosLauncher/tree/ts-refactor 'v2 branch'
+[nebula]: https://github.com/TGS-Network/Nebula 'dscalzi/Nebula'
+[v2branch]: https://github.com/TGS-Network/TGSLauncher/tree/ts-refactor 'v2 branch'
