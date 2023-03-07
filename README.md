@@ -4,7 +4,7 @@
 
 <em><h5 align="center">forked from Helios Launcher, Thank you Helios! You made the TGS Network alot easier to customize and build from now :)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/TGS-Network/TGSLauncher/build.yml?branch=main&style=for-the-badge" alt="gh actions">](https://github.com/TGS-Network/TGSLauncher/actions) [<img src="https://img.shields.io/github/downloads/TGS-Network/TGSLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/TGS-Network/TGSLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
+[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/TGS-Network/TGSLauncher/main.yml?branch=main&style=for-the-badge" alt="gh actions">](https://github.com/TGS-Network/TGSLauncher/actions) [<img src="https://img.shields.io/github/downloads/TGS-Network/TGSLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/TGS-Network/TGSLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
 
 <p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
 
